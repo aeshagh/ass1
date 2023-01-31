@@ -1,0 +1,33 @@
+print (" I will be a data scientist ")
+------------------------
+a=10
+b=12
+def sum (a,b)
+return (a+b)
+------------------------
+a=10
+b=12
+if a>b
+print (" a is greater b ")
+else
+print (" a is less than b ")
+------------------------
+a=canola yield per acre()
+b=45
+def canola_convertion()
+if a>45
+print (" yield eas better this year ")
+wheat = 2400 #yield per acre in pounds
+unit=50 # 1 bushel 50 pound
+bushel_per_acre>45:
+print (' yield was good this year ')
+else:
+print (' yield was not good this year ')
+--------------------------
+ls_1=[1.2.3.4.5.6.7.8.9.10]
+ls_1.append (' apple ')
+---------------------------
+ls_1.pop()
+'apple'
+----------------------------
+ls_1 [6]
